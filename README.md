@@ -2,7 +2,7 @@
 Zomato Data Exploration Project Overview This project involves an exploratory data analysis (EDA) of a Zomato dataset containing restaurant information. The dataset includes various attributes such as online ordering availability, table booking options, ratings, votes, approximate cost for two people, and listing types.
 
 Dataset Features 📋
-Name: The name of the restaurant
+# Name: The name of the restaurant
 Online Order: Indicates if online ordering is available (Yes/No) 🛒
 Book Table: Indicates if table booking is available (Yes/No) 📅
 Rate: The restaurant's rating ⭐
